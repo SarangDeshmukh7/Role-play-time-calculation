@@ -11,7 +11,7 @@ src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e226751-a658-4
 
 ### Flow of code
 - Import and read the video, extract frames from it, and save them as images
-- Label a few images for training the model (Don’t worry, I have done it for you)
+- Label a few images for training the model (Don’t worry, I have done it for you manually)
 - Build our model on training data
 - Make predictions for the remaining images
 - Calculate the screen time of both TOM and JERRY
