@@ -15,3 +15,8 @@ src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e226751-a658-4
 - Build our model on training data
 - Make predictions for the remaining images
 - Calculate the screen time of both TOM and JERRY
+
+Such models can help us in various fields:
+
+- We can calculate the screen time of a particular actor in a movie
+- Calculate the screen time of your favorite superhero, etc.
