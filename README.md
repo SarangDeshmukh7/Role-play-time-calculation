@@ -5,9 +5,9 @@ src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e226751-a658-4
 ### Download video from here - 
 [Tom and Jerry](https://drive.google.com/file/d/1_DcwBhYo15j7AU-v2gN61qGGd1ZablGK/view)
 ## Table of Contents
-1. Reading a video and extracting frames
-2. How to handle video files in Python
-3. Calculating the screen time – A simple Solution
+1. Reading a video and extracting frames.
+2. How to handle video files in Python.
+3. Calculating the screen time – A simple Solution.
 
 ### Flow of code
 - Import and read the video, extract frames from it, and save them as images.
