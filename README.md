@@ -16,5 +16,5 @@ src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e226751-a658-4
 - <code>Make predictions for the remaining images.</code>
 - <code>Calculate the screen time of both TOM and JERRY.</code>
 
-#### -- I am looking forword to make it more advanced and will try to achieve more accuracy score in near future.
+#### I am looking forword to make it more advanced and will try to achieve more accuracy score in near future.
 
